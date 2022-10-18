@@ -1,0 +1,20 @@
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.exe.config
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.exe
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.pdb
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo_do_palito__Lucas__bonilha.Form1.resources
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo_do_palito__Lucas__bonilha.Properties.Resources.resources
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.exe
+C:\Users\lucas\Documents\Matéria Fundamentos programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.pdb
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.exe.config
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.exe
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\bin\Debug\Jogo do palito (Lucas) bonilha.pdb
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csprojAssemblyReference.cache
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo_do_palito__Lucas__bonilha.Form1.resources
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo_do_palito__Lucas__bonilha.Properties.Resources.resources
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csproj.GenerateResource.cache
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.exe
+C:\Users\Lucas\Pictures\Screenshots\Fundamentos Programação\Jogo do palito (Lucas) bonilha\Jogo do palito (Lucas) bonilha\obj\Debug\Jogo do palito (Lucas) bonilha.pdb
